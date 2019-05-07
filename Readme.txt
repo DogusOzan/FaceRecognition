@@ -1,0 +1,1 @@
+Pyhtona opencv yi ekledikten sonra kodlarý sorunsuz bir þekilde çalýþtýrabilirsiniz.
